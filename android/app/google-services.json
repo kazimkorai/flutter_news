@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064940065056",
+    "firebase_url": "https://localnewsapp-fbc01.firebaseio.com",
+    "project_id": "localnewsapp-fbc01",
+    "storage_bucket": "localnewsapp-fbc01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064940065056:android:c2840858b7112ef1aa4745",
+        "android_client_info": {
+          "package_name": "com.example.flutter_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064940065056-s9erok5mhjs8gi4bupa4q6oc2klk04mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSjob4d-O_95U8IQvdRvXD7qcjiYK3Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064940065056-s9erok5mhjs8gi4bupa4q6oc2klk04mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
